@@ -2,25 +2,21 @@
 
 
 <div align="center" style="margin-bottom:200px">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaliexe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chaliexe&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
-<\div>
-  
+<img whidth=52% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaliexe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img whidth=40% align="center" src="https://github-readme-stats.vercel.app/api?username=chaliexe&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+</div>
+
 <br>
 
 
 
-
-
-#### Main Stack:
-
+## Main Stack:
 [<img height="48px" width="48px" alt="Icone Angular" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"/>]()
 [<img height="48px" width="48px" alt="Icone Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"/>]()
 [<img height="48px" width="48px" alt="Icone CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>]()
 [<img height="48px" width="48px" alt="Icone HTML" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>]()
 [<img height="48px" width="48px" alt="Icone Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>]()
 [<img height="48px" width="48px" alt="Icone Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>]()
-
 [<img height="48px" width="48px" alt="Icone Angular" src=""/>]()
 
 #### Studying in this moment:
