@@ -2,8 +2,8 @@
 
 
 <div align="center" style="margin-bottom:200px">
-<img whidth=52% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaliexe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img whidth=40% align="center" src="https://github-readme-stats.vercel.app/api?username=chaliexe&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaliexe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"  />
+<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=chaliexe&show_icons=true&locale=en&theme=chartreuse-dark" />
 </div>
 
 <br>
@@ -17,7 +17,7 @@
 [<img height="48px" width="48px" alt="Icone HTML" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>]()
 [<img height="48px" width="48px" alt="Icone Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>]()
 [<img height="48px" width="48px" alt="Icone Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>]()
-[<img height="48px" width="48px" alt="Icone Angular" src=""/>]()
+
 
 #### Studying in this moment:
 [<img height="48px" width="48px" alt="Icone Figma" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>]()
